@@ -1,0 +1,24 @@
+{
+  "name": "cagoule",
+  "version": "0.1.3",
+  "description": "Discover, deploy and run open-weight models on Cagoule.",
+  "author": {
+    "name": "Anorak"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Cagoule",
+    "shortDescription": "Deploy and run open-weight models",
+    "developerName": "Anorak",
+    "category": "Developer tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Create a variant of an existing Cagoule model.",
+      "Deploy a public Hugging Face model and generate an output."
+    ],
+    "longDescription": "Connect through Google sign-in to discover, deploy, modify and run open-weight models on Cagoule."
+  }
+}

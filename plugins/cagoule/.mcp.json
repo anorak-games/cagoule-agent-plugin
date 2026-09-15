@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cagoule": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/bin/cagoule",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

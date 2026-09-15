@@ -1,0 +1,13 @@
+{
+  "name": "cagoule",
+  "owner": {
+    "name": "Anorak"
+  },
+  "plugins": [
+    {
+      "name": "cagoule",
+      "source": "./plugins/cagoule",
+      "version": "0.1.3"
+    }
+  ]
+}
