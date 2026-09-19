@@ -1,0 +1,28 @@
+{
+  "name": "cagoule",
+  "owner": {
+    "name": "Anorak"
+  },
+  "plugins": [
+    {
+      "name": "cagoule",
+      "source": "./plugins/cagoule",
+      "version": "0.1.14",
+      "displayName": "Cagoule",
+      "description": "Discover, deploy and run open-weight models on Cagoule.",
+      "author": {
+        "name": "Anorak"
+      },
+      "homepage": "https://github.com/anorak-games/cagoule-agent-plugin",
+      "category": "Developer tools",
+      "keywords": [
+        "cagoule",
+        "modelpack",
+        "open-weight-models",
+        "huggingface",
+        "gpu",
+        "inference"
+      ]
+    }
+  ]
+}
