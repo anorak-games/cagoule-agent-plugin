@@ -1,0 +1,20 @@
+{
+  "name": "cagoule",
+  "interface": {
+    "displayName": "Cagoule"
+  },
+  "plugins": [
+    {
+      "name": "cagoule",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cagoule"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Developer tools"
+    }
+  ]
+}
